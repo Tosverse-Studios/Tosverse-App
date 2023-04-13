@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tosverse App2", "Tosverse App2\Tosverse App2.csproj", "{1498F0FB-572D-4D5D-A474-3D0602BA867C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1498F0FB-572D-4D5D-A474-3D0602BA867C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1498F0FB-572D-4D5D-A474-3D0602BA867C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1498F0FB-572D-4D5D-A474-3D0602BA867C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1498F0FB-572D-4D5D-A474-3D0602BA867C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FB5DC19-E01D-4125-9C77-7450606599C3}
+	EndGlobalSection
+EndGlobal
